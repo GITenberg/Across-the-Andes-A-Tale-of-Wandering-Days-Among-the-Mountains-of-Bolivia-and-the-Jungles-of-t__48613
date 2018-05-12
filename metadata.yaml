@@ -1,4 +1,8 @@
 _repo: Across-the-Andes-A-Tale-of-Wandering-Days-Among-the-Mountains-of-Bolivia-and-the-Jungles-of-t__48613
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48613-h/images/cover.jpg
 creator:
   author:
     agent_name: Post, Charles Johnson
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '25880'
     url: http://www.gutenberg.org/2009/agents/25880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48613#Across-the-Andes-A-Tale-of-Wandering-Days-Among-the-Mountains-of-Bolivia-and-the-Jungles-of-t_
 gutenberg_issued: '2015-03-31'
 gutenberg_type: Text
 identifiers:
