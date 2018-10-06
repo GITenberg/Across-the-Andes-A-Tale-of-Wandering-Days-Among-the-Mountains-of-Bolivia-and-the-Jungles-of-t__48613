@@ -21,6 +21,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Across the Andes
 
   A Tale of Wandering Days Among the Mountains of Bolivia
